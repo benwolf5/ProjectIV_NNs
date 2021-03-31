@@ -5,6 +5,9 @@ Supervised by Dr Marija Zamaklar and Dr Kasper Peeters.
 
 
 The folder plots shows all the python and R files used to create the figures and plots used in my project.
+
 facemask_detector_colab.ipynb is a Python notebook of a binary classification CNN to detect people wearing face masks or not. 
+
 alexnet-cifar10.py is a Python file to train AlexNet on the CIFAR-10 benchmark dataset.
+
 predicting-sine.ipynb is a Python Notebook of a NN which identifies the period and amplitude of a given sine function of form f(x)=Asin(\omega x)
