@@ -4,7 +4,7 @@ For the degree of Mathematical Sciences MMath from the Department of Mathematica
 Supervised by Dr Marija Zamaklar and Dr Kasper Peeters.
 
 
-The folder plots shows all the python and R files used to create the figures and plots used in my project.
+The folder plots shows all the Python, MATLAB and R files used to create the figures and plots used in my project.
 
 facemask_detector_colab.ipynb is a Python notebook of a binary classification CNN to detect people wearing face masks or not. The dataset can be downloaded from https://www.kaggle.com/manishkc06/face-mask-dataset
 
