@@ -6,7 +6,7 @@ Supervised by Dr Marija Zamaklar and Dr Kasper Peeters.
 
 The folder plots shows all the Python, MATLAB and R files used to create the figures and plots used in my project.
 
-facemask_detector_colab.ipynb is a Python notebook of a binary classification CNN to detect people wearing face masks or not. The dataset can be downloaded from https://www.kaggle.com/manishkc06/face-mask-dataset
+facemask_detector_gcolab.ipynb is a Python notebook of a binary classification CNN to detect people wearing face masks or not. The dataset can be downloaded from https://www.kaggle.com/manishkc06/face-mask-dataset
 
 alexnet-cifar10.py is a Python file to train AlexNet on the CIFAR-10 benchmark dataset.
 
